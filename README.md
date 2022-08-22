@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bilal-tunchie
-- 👀 I’m interested in blockchain
+- 👀 I’m interested on Web-2 and Web-3
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate with anybody who is ambitious to be a great developer
 - 📫 How to reach me here in github or my insta (bilal_tunchie)
