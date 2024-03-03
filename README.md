@@ -21,6 +21,8 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-tunchie&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 <div align="right">
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-tunchie&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 </div>
