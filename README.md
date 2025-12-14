@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Bilal Mohamed</h1>
+<h3 align="center">Data Analyst</h3>
 
 <img align="right" alt="Coding" style="border-radius:100px;" width="400" src="/tech.gif"/>
 
-- 🔭 I’m currently working as a Frontend Developer
-- 💬 Ask me about **Next, React, TypeScript, Sql, Mongodb and Tailwind CSS**
-- 👨‍💻 All of my projects are available at https://bilal-tunchie-portfolio.netlify.app
-- 📄 Resume: https://onedrive.live.com/?authkey=%21AJUkbkwx2aRnR88&id=FEA6A48BA7214AF8%212041&cid=FEA6A48BA7214AF8&parId=root&parQt=sharedby&o=OneUp
+- 🔭 I’m currently working as a Data Analyst
+- 💬 Ask me about **SQL, Tableau, Power BI, Excel and Python**
 - 📫 How to reach me: **Bilalmohammed_tunchie@outlook.com**
 
 ## 💻 Languages and tools:
