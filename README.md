@@ -5,6 +5,12 @@
 
 - 🔭 I’m currently working as a Data Analyst
 - 💬 Ask me about **SQL, Tableau, Power BI, Excel and Python**
+- 🎯 **Specialties:**
+    Data Storytelling
+    Customer, Partner, and Client Relations
+    Reporting 
+    Process Improvements
+    Statistical Analysis and Data Mining
 - 📫 How to reach me: **Bilalmohammed_tunchie@outlook.com**
 
 ## 💻 Languages and tools:
