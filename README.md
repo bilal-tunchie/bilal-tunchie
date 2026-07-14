@@ -11,13 +11,13 @@
     Reporting 
     Process Improvements
     Statistical Analysis and Data Mining
-- 📫 How to reach me: **Bilalmohammed_tunchie@outlook.com**
+- 📫 How to reach me: **Bilalmohammed_tunchie@outlook.com** | **+966 58 188 2499**
 
 ## 💻 Languages and tools:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-tunchie&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-![Tech stack](https://samsung-crm.com/mena/KSA/new-design/github.jpg)
+![Tech stack](https://res6.mena2p.crm.samsung.com/res/tracking/002f7d960f2f78a161d1024971eb583b.png)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
