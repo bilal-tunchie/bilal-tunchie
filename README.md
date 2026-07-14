@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" style="border-radius:100px;" width="400" src="/tech.gif"/>
 
 - 🔭 I’m currently working as a Data Analyst
-- 💬 Ask me about **Data Bricks, Azure, Power BI, SQL, Python, Tableau, Excel, Git & Github**
+- 💬 Ask me about **Databricks, Azure, Power BI, SQL, Python, Tableau, Excel, Git & Github**
 - 🎯 **Specialties:**
     Data Storytelling
     Customer, Partner, and Client Relations
