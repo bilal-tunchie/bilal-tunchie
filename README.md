@@ -17,7 +17,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-tunchie&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-![Tech stack](https://res6.mena2p.crm.samsung.com/res/tracking/002f7d960f2f78a161d1024971eb583b.png)
+![Tech stack](https://samsung.stensul.com/images/tenants/samsung/campaigns//6a549aa4451bd2efa8063823/en_us/6a719836e05bb-1785829430.919.jpg)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
